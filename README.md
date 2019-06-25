@@ -8,7 +8,9 @@ Final device
 
 Testing
 
-![alt_text( https://raw.githubusercontent.com/ahmetdenizyilmaz/MobileColorMeasurementDevice/master/Images/Testing%20color%20measurement.png )
+
+![alt text](https://raw.githubusercontent.com/ahmetdenizyilmaz/MobileColorMeasurementDevice/master/Images/Testing%20color%20measurement.png)
 
 Result
-![alt text(https://github.com/ahmetdenizyilmaz/MobileColorMeasurementDevice/blob/master/Images/ScreenShot%20of%20measurement.png)
+
+![alt text](https://github.com/ahmetdenizyilmaz/MobileColorMeasurementDevice/blob/master/Images/ScreenShot%20of%20measurement.png)
